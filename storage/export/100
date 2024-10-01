@@ -1,0 +1,88 @@
+{
+  "id": 100,
+  "result": [
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.444537291581995,
+        "y": 44.80645091001437,
+        "width": 5.674902420276969,
+        "height": 8.6643599452443,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "U4Oy9LOKP9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.74650631768598,
+        "y": 63.35122131913366,
+        "width": 4.762864531303895,
+        "height": 4.864202074523128,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "xs0GMacPqX",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " amcbulao@addu.edu.ph, 2",
+  "created_ago": "22\u00a0hours, 45\u00a0minutes",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "amcbulao@addu.edu.ph"
+  },
+  "task": {
+    "id": 198,
+    "data": {
+      "image": "/data/local-files/?d=Dataset%5CIMG_3832.JPG"
+    },
+    "meta": {},
+    "created_at": "2024-09-14T09:31:17.662032Z",
+    "updated_at": "2024-09-30T15:57:36.285376Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 96,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 2,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-09-30T15:57:36.213370Z",
+  "updated_at": "2024-09-30T15:57:36.214359Z",
+  "draft_created_at": "2024-09-30T15:57:24.431586Z",
+  "lead_time": 22.657,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 2,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

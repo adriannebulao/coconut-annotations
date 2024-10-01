@@ -1,0 +1,148 @@
+{
+  "id": 83,
+  "result": [
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 35.222820858631934,
+        "y": 36.69944745247582,
+        "width": 4.357514358426962,
+        "height": 6.688277852469279,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 3"
+        ]
+      },
+      "id": "1f9Tlmyqrq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 33.19606999424736,
+        "y": 58.74036310265868,
+        "width": 7.70165328466159,
+        "height": 12.008498871478912,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "gDv9iV5jz6",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.341156144809084,
+        "y": 46.7318642311797,
+        "width": 5.370889790619334,
+        "height": 11.704486241821256,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "hIs1c8oaWl",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 46.0659379830897,
+        "y": 25.754992784798787,
+        "width": 10.235091865142376,
+        "height": 8.36034731558659,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "CnocGqxpW8",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 49.00472673644753,
+        "y": 67.86074199238907,
+        "width": 3.2124001200496375,
+        "height": 8.664359945244271,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "51qMkNcicn",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " amcbulao@addu.edu.ph, 2",
+  "created_ago": "23\u00a0hours, 17\u00a0minutes",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "amcbulao@addu.edu.ph"
+  },
+  "task": {
+    "id": 181,
+    "data": {
+      "image": "/data/local-files/?d=Dataset%5CIMG_3806.JPG"
+    },
+    "meta": {},
+    "created_at": "2024-09-14T09:31:17.423179Z",
+    "updated_at": "2024-09-30T15:24:55.225627Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 79,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 2,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-09-30T15:24:55.150607Z",
+  "updated_at": "2024-09-30T15:24:55.150607Z",
+  "draft_created_at": "2024-09-30T15:23:56.430611Z",
+  "lead_time": 71.522,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 2,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
