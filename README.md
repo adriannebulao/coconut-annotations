@@ -32,16 +32,16 @@ git clone https://github.com/adriannebulao/coconut-annotations.git
 
 - Specify the root directory for Label Studio to use when accessing local file directories:
 
-  On Windows:
+  On Windows (example):
 
   ```
-  set LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=.
+  set LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=C:/Users/Administrator/Desktop/code/coconut-annotations/storage
   ```
 
-  On Unix:
+  On Unix (example):
 
   ```
-  export LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=.
+  export LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/home/adrianne/Desktop/code/coconut-annotations/storage
   ```
 
 ### 5. Run Label Studio
