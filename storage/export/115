@@ -1,0 +1,168 @@
+{
+  "id": 115,
+  "result": [
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 32.24164242627614,
+        "y": 36.180526249019415,
+        "width": 9.48002547168719,
+        "height": 12.617780381330093,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "TFKNFHt6rf",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.19040423864723,
+        "y": 24.864580351477294,
+        "width": 11.182424412025348,
+        "height": 8.812418044103538,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "GbHcbYwLNo",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 57.377062074798765,
+        "y": 33.82721006678716,
+        "width": 3.6384604803306972,
+        "height": 5.40762016342719,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 1"
+        ]
+      },
+      "id": "fCBrl6ye_E",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 61.31594589754208,
+        "y": 46.34484933397997,
+        "width": 5.107196821014568,
+        "height": 7.21016021790274,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "r8Y0oBy6zh",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 56.976497618248665,
+        "y": 63.71933263684318,
+        "width": 4.539730507568503,
+        "height": 6.959807432558943,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "s-FiIdSt8j",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 33.61023765282252,
+        "y": 64.57053210701235,
+        "width": 8.178190987899189,
+        "height": 10.064181970822899,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "-D65kZIIoW",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " amcbulao@addu.edu.ph, 2",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "amcbulao@addu.edu.ph"
+  },
+  "task": {
+    "id": 213,
+    "data": {
+      "image": "/data/local-files/?d=dataset/IMG_3865.JPG"
+    },
+    "meta": {},
+    "created_at": "2024-10-01T14:42:40.883166Z",
+    "updated_at": "2024-10-01T14:42:40.883166Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 111,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-10-02T07:55:27.736405Z",
+  "updated_at": "2024-10-02T07:55:27.736434Z",
+  "draft_created_at": "2024-10-02T07:53:17.536305Z",
+  "lead_time": 147.714,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 2,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
