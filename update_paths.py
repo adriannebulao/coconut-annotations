@@ -4,10 +4,10 @@ import platform
 
 db_path = 'label_studio.sqlite3'
 
-windows_source_path = 'C:/Users/Administrator/Desktop/code/coconut-annotations/storage/dataset'
+windows_source_path = 'C:\\Users\\Administrator\\Desktop\\code\\coconut-annotations\\storage\\dataset'
 linux_source_path = '/home/adrianne/Desktop/code/coconut-annotations/storage/dataset'
 
-windows_target_path = 'C:/Users/Administrator/Desktop/code/coconut-annotations/storage/export'
+windows_target_path = 'C:\\Users\\Administrator\\Desktop\\code\\coconut-annotations\\storage\\export'
 linux_target_path = '/home/adrianne/Desktop/code/coconut-annotations/storage/export'
 
 conn = sqlite3.connect(db_path)
