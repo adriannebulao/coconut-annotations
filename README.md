@@ -14,38 +14,12 @@ git clone https://github.com/adriannebulao/coconut-annotations.git
 
 ### 3. Download dataset images into `storage/dataset/`
 
-### 4. Set environment variables
+### 4. Run Label Studio
 
-- Allow Label Studio to access local file directories to import storage:
+- On windows, run `start_label_studio.bat`
 
-  On Windows:
+- On Linux, run `start_label_studio.sh`
 
-  ```
-  set LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
-  ```
+### 5. Access Label Studio
 
-  On Unix:
-
-  ```
-  export LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
-  ```
-
-- Specify the root directory for Label Studio to use when accessing local file directories:
-
-  On Windows (example):
-
-  ```
-  set LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=C:/Users/Administrator/Desktop/code/coconut-annotations/storage
-  ```
-
-  On Unix (example):
-
-  ```
-  export LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/home/adrianne/Desktop/code/coconut-annotations/storage
-  ```
-
-### 5. Run Label Studio
-
-```
-label-studio start -b -db "./label_studio.sqlite3"
-```
+- Label Studio can be accessed in your web browser at: [http://localhost:8080/](http://localhost:8080/)
