@@ -1,0 +1,168 @@
+{
+  "id": 147,
+  "result": [
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.840827233322194,
+        "y": 22.419590510017517,
+        "width": 2.9693194481968703,
+        "height": 5.7102297080709015,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 1"
+        ]
+      },
+      "id": "SXqEV5UuJH",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 53.520376389589956,
+        "y": 32.24118560789947,
+        "width": 7.156821234115525,
+        "height": 6.509661867200833,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 1"
+        ]
+      },
+      "id": "SUmYin-snI",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 31.136275933952028,
+        "y": 46.516759878076606,
+        "width": 8.070457987406872,
+        "height": 10.849436445334701,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "tau1YZGAUT",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 61.134016000351174,
+        "y": 47.54460122552947,
+        "width": 3.730683409272976,
+        "height": 6.052843490555147,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "vIjE6pUmQa",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 51.08401171414637,
+        "y": 60.107106583285486,
+        "width": 8.527276364052556,
+        "height": 13.361937516885916,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "mq0D0tNV2H",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 5184,
+      "original_height": 3456,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.83627879142188,
+        "y": 41.834371517458585,
+        "width": 4.263638182026275,
+        "height": 8.679549156267779,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Stage 2"
+        ]
+      },
+      "id": "Xh5lzJM-A3",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " amcbulao@addu.edu.ph, 2",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "amcbulao@addu.edu.ph"
+  },
+  "task": {
+    "id": 245,
+    "data": {
+      "image": "/data/local-files/?d=dataset/IMG_3907.JPG"
+    },
+    "meta": {},
+    "created_at": "2024-10-01T14:42:41.290163Z",
+    "updated_at": "2024-10-01T14:42:41.290163Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 143,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-10-04T14:29:48.996635Z",
+  "updated_at": "2024-10-04T14:29:48.996635Z",
+  "draft_created_at": "2024-10-04T14:28:44.814050Z",
+  "lead_time": 85.895,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 2,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
